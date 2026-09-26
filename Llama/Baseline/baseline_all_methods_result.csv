@@ -1,0 +1,56 @@
+﻿method,metric,score
+zero_shot,Exact Match,0.0
+zero_shot,Fuzzy Match,0.4813210178529627
+zero_shot,Corpus BLEU,0.02888694805575327
+zero_shot,ROUGE-1,0.16046872868919468
+zero_shot,ROUGE-2,0.056014519245525383
+zero_shot,ROUGE-L,0.14770627312502363
+zero_shot,Token F1,0.16046872868919468
+zero_shot,BERT Precision,0.7061638832092285
+zero_shot,BERT Recall,0.6982187032699585
+zero_shot,BERT F1,0.7015971541404724
+zero_shot,Truncated Outputs,112.0
+one_shot,Exact Match,0.0
+one_shot,Fuzzy Match,0.4600473908533296
+one_shot,Corpus BLEU,0.018664741531471817
+one_shot,ROUGE-1,0.1365259530578054
+one_shot,ROUGE-2,0.04195250925414073
+one_shot,ROUGE-L,0.12342205400249784
+one_shot,Token F1,0.1365259530578054
+one_shot,BERT Precision,0.6835203766822815
+one_shot,BERT Recall,0.680469274520874
+one_shot,BERT F1,0.6815893650054932
+one_shot,Truncated Outputs,148.0
+few_shot,Exact Match,0.0
+few_shot,Fuzzy Match,0.40102633334493376
+few_shot,Corpus BLEU,0.014299276849012985
+few_shot,ROUGE-1,0.06976813788822049
+few_shot,ROUGE-2,0.023132449403530226
+few_shot,ROUGE-L,0.06385817061246031
+few_shot,Token F1,0.06976813788822049
+few_shot,BERT Precision,0.6459209322929382
+few_shot,BERT Recall,0.6558234691619873
+few_shot,BERT F1,0.6504452228546143
+few_shot,Truncated Outputs,191.0
+chain_of_thought,Exact Match,0.0
+chain_of_thought,Fuzzy Match,0.4860935258054056
+chain_of_thought,Corpus BLEU,0.027055759651821866
+chain_of_thought,ROUGE-1,0.15807636894362476
+chain_of_thought,ROUGE-2,0.053151623946327664
+chain_of_thought,ROUGE-L,0.14385180100370298
+chain_of_thought,Token F1,0.15807636894362476
+chain_of_thought,BERT Precision,0.6999520063400269
+chain_of_thought,BERT Recall,0.697587788105011
+chain_of_thought,BERT F1,0.6982652544975281
+chain_of_thought,Truncated Outputs,141.0
+instruction,Exact Match,0.0
+instruction,Fuzzy Match,0.49637669461584344
+instruction,Corpus BLEU,0.028108814222407
+instruction,ROUGE-1,0.17076498024132752
+instruction,ROUGE-2,0.058167306389038005
+instruction,ROUGE-L,0.15360670000000023
+instruction,Token F1,0.17076498024132752
+instruction,BERT Precision,0.7080325484275818
+instruction,BERT Recall,0.7028757333755493
+instruction,BERT F1,0.7048832774162292
+instruction,Truncated Outputs,108.0
