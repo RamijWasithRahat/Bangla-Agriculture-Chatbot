@@ -29,10 +29,6 @@ The project studies how prompting, retrieval grounding, parameter-efficient fine
 - [Overall Findings](#overall-findings)
 - [Important Experimental Notes](#important-experimental-notes)
 - [How to Run](#how-to-run)
-- [Reproducibility](#reproducibility)
-- [Limitations](#limitations)
-- [Future Work](#future-work)
-- [License](#license)
 - [Repository](#repository)
 
 ---
